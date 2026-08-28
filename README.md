@@ -5,7 +5,6 @@
 ### About me
   Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm a passionate Staff Technical Solutions Engineer that works at Databricks.
 -  **Skills :** Apache Spark, Python, Agentic Tooling and Loops, Distributed Computing and much more.
--  **Hobbies : Games :video_game:
 -  **Professional Experience :** 8+ Years
 
 In case you want to know some more about me check the url's below:
